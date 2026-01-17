@@ -1,0 +1,10 @@
+{
+  "name": "ws-vpn-server",
+  "version": "1.0.0",
+  "main": "ws-server.js",
+  "type": "module",
+  "dependencies": {
+    "ws": "^8.13.0",
+    "node-fetch": "^3.3.2"
+  }
+}
